@@ -1,2 +1,3 @@
-# I have added a header
-### header type 3
+# Yaktocat
+### cool cat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
